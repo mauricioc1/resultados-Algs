@@ -53,7 +53,7 @@ let myChartWoman = new Chart(ctxWoman, {
             },
             {
                 label: "Computadora #3",
-                data: [5125, 0, 10463, 7390, 0],
+                data: [5125, 10615, 10463, 7390, 0],
                 backgroundColor: "rgba(10,10,220,0.6)",
             },
         ],
